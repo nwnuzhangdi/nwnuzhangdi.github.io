@@ -33,6 +33,7 @@ title: "Team"
         <span class="name">牛倩倩</span>
         <div class="meta"><i class="fas fa-user"></i>研究生</div>
         <div class="meta"><i class="fas fa-envelope"></i></div>
+        <div class="meta"><i class="fas fa-info-circle"></i>半监督遥感影像语义分割</div>
       </div>
     </li>
 
