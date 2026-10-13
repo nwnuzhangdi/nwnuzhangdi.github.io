@@ -281,3 +281,11 @@ ul.gallery-grid {
   @media screen and (max-width: 900px) { grid-template-columns: repeat(2, 1fr); }
   @media screen and (max-width: 600px) { grid-template-columns: 1fr; }
 }
+
+/* ---- 简介里的校徽 ---- */
+img.school-logo {
+  height: 1.15em;              /* 和文字差不多高，别更大否则会撑开行距 */
+  width: auto;
+  margin: 0 0.12em 0 0.05em;   /* 右 0.12em：徽标和校名之间的空隙 */
+  vertical-align: -0.22em;     /* 往下压一点，和中文基线对齐 */
+}

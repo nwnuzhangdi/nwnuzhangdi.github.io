@@ -1,22 +1,23 @@
 
+# 💻 科研项目
+- 国家自然科学基金, 62566059, 面向弱标注复杂遥感影像的语义分割方法研究, 2026.01-2029.12, 主持, 在研.
+- 甘肃省自然科学基金项目, 23JRRA683, 基于深度特征学习的多源遥感影像语义分割方法研究, 2023.07-2026.01, 主持, 已结项.
+- 甘肃省高等学校科研项目, 2026QB-017, 基于特征增强与多任务交互的多时相遥感影像变化检测研究, 2026.01-2026.12, 主持, 在研.
+- 甘肃省云计算重点实验室开放课题, 基于差异特征融合的多源遥感影像语义分割方法研究, 2023.07-2025.06, 主持.
+- 西北师范大学青年教师科研能力提升计划项目, NWNU-LKQN2023-12, 面向复杂场景的遥感影像语义分割方法研究, 2023.06-2026.05, 主持.
 
-<!-- # 💬 Invited Talks
-- *2022.02*, Hosted MLNLP seminar \| [\[Video\]](https://www.bilibili.com/video/BV1wF411x7qh)
-- *2021.06*, Audio & Speech Synthesis, Huawei internal talk
-- *2021.03*, Non-autoregressive Speech Synthesis, PaperWeekly & biendata \| [\[video\]](https://www.bilibili.com/video/BV1uf4y1t7Hr/)
-- *2020.12*, Non-autoregressive Speech Synthesis, Huawei Noah's Ark Lab internal talk
+# 💡学术活动
+- 第十届视觉、图像与信号处理国际会议(ICVISP 2026)Co-chairs
+- 《西北师范大学学报（自然科学版）》青年委员, 2024.07.12-2029.07.11.
+- 甘肃省人工智能学会第一届理事会理事, 2024.05-2029.05.
+- 甘肃省人工智能学会专家库专家, 2025.12-2026.12.
+- 第三届智能物联网系统国际会议(AIoTSys 2025)本地主席.
+- 全国智能信息处理学术会议(NCIIP 2021)最佳会议论文.
 
-# 💻 Internships
-- *2021.06 - 2021.09*, Alibaba, Hangzhou.
-- *2019.05 - 2020.02*, [EnjoyMusic](https://enjoymusic.ai/), Hangzhou.
-- *2019.02 - 2019.05*, [YiWise](https://www.yiwise.com/), Hangzhou.
-- *2018.08 - 2019.02*, [MSRA, machine learning Group](https://www.microsoft.com/en-us/research/group/machine-learning-research-group/), Beijing.
-- *2018.01 - 2018.06*, [NetEase, AI department](https://hr.163.com/zc/12-ai/index.html), Hangzhou.
-- *2017.08 - 2018.12*, DashBase (acquired by [Cisco](https://blogs.cisco.com/news/349511)), Hangzhou. -->
+# 🏷️其他
+- [CCF推荐会议截至日期](https://ccfddl.top/)
+- [CCF推荐国际学术会议和期刊目录-第七版](https://www.ccf.org.cn/ccf/contentcore/resource/download?ID=112CF3BF7E1140ACEB271ADAED12A67ADFABB8FF099E40C2759502A85C8A281F)
 
-<!-- # 💬 招生信息
-2027年度计划招收硕士研究生4人。
-
-欢迎拥有良好英语读写基础、较强Python编程能力的学生报考！
-
-如有意向，可将个人简历发送至：<i class="fas fa-envelope"></i> [zhangdi@nwnu.edu.cn](mailto:zhangdi@nwnu.edu.cn) -->
+<!-- # 📖 教育经历
+- *2018.09 - 2022.12*, **中国矿业大学**计算机应用技术专业博士研究生，导师-**周勇**教授
+- *2015.09 - 2018.06*, **西北师范大学**计算机科学与技术专业硕士研究生，导师-**马慧芳**教授  -->
