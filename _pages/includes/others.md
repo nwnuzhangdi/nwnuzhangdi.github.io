@@ -15,7 +15,7 @@
 - 全国智能信息处理学术会议(NCIIP 2021)最佳会议论文.
 
 # 🏷️其他
-- [CCF推荐会议截至日期](https://ccfddl.top/)
+- [CCF推荐会议截止日期](https://ccfddl.top/)
 - [CCF推荐国际学术会议和期刊目录-第七版](https://www.ccf.org.cn/ccf/contentcore/resource/download?ID=112CF3BF7E1140ACEB271ADAED12A67ADFABB8FF099E40C2759502A85C8A281F)
 
 <!-- # 📖 教育经历
