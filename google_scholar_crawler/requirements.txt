@@ -1,2 +1,5 @@
+# scholarly 1.5.1 仍在用 bibtexparser 1.x 的 bibtexparser.bibdatabase 接口；
+# 不锁版本时 pip 会装 2.x，导致 import scholarly 直接 ModuleNotFoundError（2026-10 实测）
 jsonpickle==1.4.2
 scholarly==1.5.1
+bibtexparser==1.4.1

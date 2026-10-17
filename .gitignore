@@ -2,3 +2,12 @@ _site/
 push.sh
 .DS_Store
 /github_myprofile_updater/README.md
+
+# Python 抓取脚本的运行产物
+__pycache__/
+*.pyc
+google_scholar_crawler/results/
+
+# JetBrains 个人工作区配置（团队共享的配置仍然提交）
+.idea/workspace.xml
+.idea/shelf/
