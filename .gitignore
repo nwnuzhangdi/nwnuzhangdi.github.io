@@ -11,3 +11,7 @@ google_scholar_crawler/results/
 # JetBrains 个人工作区配置（团队共享的配置仍然提交）
 .idea/workspace.xml
 .idea/shelf/
+
+# Jekyll 本地构建缓存
+.sass-cache/
+.jekyll-cache/
