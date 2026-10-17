@@ -1,0 +1,17 @@
+{% comment %}
+  页面最下方的一行版权说明：© 年份 单位 | 姓名
+  样式（顶部一条细线 + 居中浅灰小字）在 _sass/_footer.scss 的
+  .page__footer / .page__footer-copyright。
+
+  文字不用改这里，_config.yml 的 footer: 段才是来源：
+    footer.org     单位名（缺省用 site.author.employer）
+    footer.author  姓名（缺省依次用 site.author.name、site.title）
+  年份取构建时的年份（site.time），想写死就把下面的 date 过滤器换成固定值。
+
+  想整块去掉页脚：把 _layouts/default.html 里包着本文件的
+  <div class="page__footer">…</div> 删掉即可。
+{% endcomment %}
+
+<div class="page__footer-copyright">
+  &copy; {{ site.time | date: '%Y' }} {{ site.footer.org | default: site.author.employer }} | {{ site.footer.author | default: site.author.name | default: site.title }}
+</div>
