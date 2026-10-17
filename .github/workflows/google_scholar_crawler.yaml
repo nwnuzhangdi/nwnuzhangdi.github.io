@@ -13,6 +13,7 @@ permissions:
 jobs:
   build:
     runs-on: ubuntu-latest
+    timeout-minutes: 10   # 兜底：卡住时最多占 10 分钟，不会一直挂着
     steps:
       - name: Checkout
         uses: actions/checkout@v4
