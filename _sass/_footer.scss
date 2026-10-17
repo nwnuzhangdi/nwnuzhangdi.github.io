@@ -2,38 +2,29 @@
    FOOTER
    ========================================================================== */
 
+/*
+   页面最下方的版权行（版式参照 https://greyspring.github.io/）：
+   一条通栏细分隔线 + 居中、浅灰、小号的一行字，形如「© 2026 西北师范大学 | 张迪」。
+
+   - 内容：_includes/footer.html（文案在 _config.yml 的 footer: 段）
+   - 布局：正常文档流里的最后一块。旧版是 position: absolute + 由
+     assets/js/_main.js 里的 bumpIt() 给 body 补 margin-bottom，页脚一旦有
+     内容就会盖住/挤开页面底部；现在不需要那套补白了。
+   - 想隐藏页脚：把 _layouts/default.html 里 <div class="page__footer"> 那段删掉。
+   ========================================================================== */
+
 .page__footer {
-  @include clearfix;
-  float: left;
-  margin-left: 0;
-  margin-right: 0;
-  width: 100%;
   clear: both;
-  /* sticky footer fix start */
-  position: absolute;
-  bottom: 0em;
-  height: auto;
-  /* sticky footer fix end */
-  margin-top: 3em;
+  width: 100%;
+  margin: 4em 0 0;
+  padding: 1.2em 1em 1.5em;
+  border-top: 1px solid $border-color;
   color: mix(#fff, $gray, 25%);
-  -webkit-animation: intro 0.3s both;
-          animation: intro 0.3s both;
-  -webkit-animation-delay: 0.45s;
-          animation-delay: 0.45s;
-  background-color: $lighter-gray;
-  border-top: 1px solid $light-gray;
+  text-align: center;
 
   footer {
-    @include clearfix;
-    margin-left: auto;
-    margin-right: auto;
-    margin-top: 2em;
     max-width: 100%;
-    padding: 0 1em 2em;
-
-    @include breakpoint($x-large) {
-      max-width: $x-large;
-    }
+    margin: 0 auto;
   }
 
   a {
@@ -41,6 +32,7 @@
     text-decoration: none;
 
     &:hover {
+      color: $link-color-hover;
       text-decoration: underline;
     }
   }
@@ -49,44 +41,24 @@
   .fab,
   .far,
   .fal {
-    color: mix(#fff, $gray, 25%);
+    color: inherit;
   }
 }
 
 .page__footer-copyright {
   font-family: $global-font-family;
-  font-size: $type-size-7;
+  /* 与参考站一致：那一行版权字没有单独设字号，直接继承正文的 16px（1em）。
+     别用 $type-size-7（≈11px），会明显比参考站小一圈。 */
+  font-size: 1em;
+  line-height: 1.6;
 }
 
-.page__footer-follow {
-  ul {
-    margin: 0;
-    padding: 0;
-    list-style-type: none;
-  }
-
-  li {
-    display: inline-block;
-    padding-top: 5px;
-    padding-bottom: 5px;
-    font-family: $sans-serif-narrow;
-    font-size: $type-size-6;
-    text-transform: uppercase;
-  }
-
-  li + li:before {
-    content: "";
-    padding-right: 5px;
-  }
-
-  a {
-    padding-right: 10px;
-    font-weight: bold;
-  }
-
-  .social-icons {
-    a {
-      white-space: nowrap;
-    }
-  }
+/*
+   assets/js/main.min.js 里旧的「固定页脚」逻辑会给 body 塞一个
+   margin-bottom = 页脚高度，页脚进入正常文档流后这只会把页面底部顶出一块空白，
+   所以这里压掉它。assets/js/_main.js 里对应的代码已经清掉；本仓库没有 js 构建
+   脚本、main.min.js 是直接提交的，所以线上仍靠这条 !important 兜底。
+*/
+body {
+  margin-bottom: 0 !important;
 }

@@ -23,7 +23,7 @@ title: "Team"
         <span class="name">剡宇航</span>
         <div class="meta"><i class="fas fa-user"></i>研究生</div>
         <div class="meta"><i class="fas fa-envelope"></i></div>
-        <div class="meta"><i class="fas fa-info-circle"></i>遥感影像多元语义分割</div>
+        <div class="meta"><i class="fas fa-info-circle"></i>遥感影像多源语义分割</div>
       </div>
     </li>
 

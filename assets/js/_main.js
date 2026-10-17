@@ -3,23 +3,9 @@
    ========================================================================== */
 
 $(document).ready(function(){
-   // Sticky footer
-  var bumpIt = function() {
-      $("body").css("margin-bottom", $(".page__footer").outerHeight(true));
-    },
-    didResize = false;
-
-  bumpIt();
-
-  $(window).resize(function() {
-    didResize = true;
-  });
-  setInterval(function() {
-    if (didResize) {
-      didResize = false;
-      bumpIt();
-    }
-  }, 250);
+  // Sticky footer: no longer needed.
+  // 页脚（.page__footer）已经改成正常文档流里的最后一块，不再 position: absolute，
+  // 所以原来给 body 加 margin-bottom 补白的逻辑会把页面底部顶出一块空白。
   // FitVids init
   $("#main").fitVids();
 

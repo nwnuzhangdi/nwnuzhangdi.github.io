@@ -51,7 +51,7 @@ Multi-Source Remote Sensing Images Semantic Segmentation Based on Differential F
 </div> -->
 
 
-- `IEEE TGRS 2025` Li X, Ma H, Guo S, **Zhang D**, et al. Dual-Graph Knowledge Distillation Meets Multiscale CNN: A Novel Ensemble Approach for Few-Shot Hyperspectral Image Classification[J]. IEEE Transactions on Geoscience and Remote Sensing, 2025, 63: 1-22.   <span class="journal-tag">中科院1区TOP CCF-B</span> [**[Paper]**](https://ieeexplore.ieee.org/abstract/document/11222100) <strong><span class='show_paper_citations' data='4FA6C0AAAAAJ:qjMakFHDy7sC'></span></strong>
+- `IEEE TGRS 2025` Li X, Ma H, Guo S, **Zhang D**, et al. Dual-Graph Knowledge Distillation Meets Multiscale CNN: A Novel Ensemble Approach for Few-Shot Hyperspectral Image Classification[J]. IEEE Transactions on Geoscience and Remote Sensing, 2025, 63: 1-22.   <span class="journal-tag">中科院1区TOP CCF-B</span> [**[Paper]**](https://ieeexplore.ieee.org/abstract/document/11222100) <strong><span class='show_paper_citations' data='4FA6C0AAAAAJ:qjMakFHDy7sC'></span></strong> [**[Code]**](https://github.com/AXTX725/KDMSC) <strong><span class='show_paper_citations' data='4FA6C0AAAAAJ:qjMakFHDy7sC'></span></strong>
 
 - `Image Vision Comput 2025` Wang C, Ma H, **Zhang D**, et al. Enhancing weakly supervised semantic segmentation with efficient and robust neighbor-attentive superpixel aggregation[J]. Image and Vision Computing, 2025, 154: 105391.   <span class="journal-tag">中科院3区</span> [**[Paper]**](https://www.sciencedirect.com/science/article/pii/S0262885624004967) <strong><span class='show_paper_citations' data='4FA6C0AAAAAJ:qjMakFHDy7sC'></span></strong>
 
@@ -65,7 +65,7 @@ Multi-Source Remote Sensing Images Semantic Segmentation Based on Differential F
 
 - `Neurocomputing 2022` Zhao J, **Zhang D**, Shi B, et al. Multi-source collaborative enhanced for remote sensing images semantic segmentation[J]. Neurocomputing, 2022, 493: 76-90.   <span class="journal-tag">中科院2区 CCF-C</span> [**[Paper]**](https://www.sciencedirect.com/science/article/pii/S0925231222004106) <strong><span class='show_paper_citations' data='4FA6C0AAAAAJ:qjMakFHDy7sC'></span></strong>   
 
-- `IEEE TGRS 2022` He X, Zhou Y, Zhao J, **Zhang D**, et al. Swin transformer embedding UNet for remote sensing image semantic segmentation[J]. IEEE transactions on geoscience and remote sensing, 2022, 60: 1-15.   <span class="journal-tag">中科院1区TOP CCF-B</span> [**[Paper]**](https://ieeexplore.ieee.org/abstract/document/9686686) <strong><span class='show_paper_citations' data='4FA6C0AAAAAJ:qjMakFHDy7sC'></span></strong>  
+- `IEEE TGRS 2022` He X, Zhou Y, Zhao J, **Zhang D**, et al. Swin transformer embedding UNet for remote sensing image semantic segmentation[J]. IEEE transactions on geoscience and remote sensing, 2022, 60: 1-15.   <span class="journal-tag">中科院1区TOP CCF-B</span> [**[Paper]**](https://ieeexplore.ieee.org/abstract/document/9686686) <strong><span class='show_paper_citations' data='4FA6C0AAAAAJ:qjMakFHDy7sC'></span></strong> [**[Code]**](https://github.com/XinnHe/ST-UNet) <strong><span class='show_paper_citations' data='4FA6C0AAAAAJ:qjMakFHDy7sC'></span></strong>
 
 
 ## - 📘 会议论文

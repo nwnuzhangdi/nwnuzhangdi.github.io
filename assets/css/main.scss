@@ -289,3 +289,19 @@ img.school-logo {
   margin: 0 0.12em 0 0.05em;   /* 右 0.12em：徽标和校名之间的空隙 */
   vertical-align: -0.22em;     /* 往下压一点，和中文基线对齐 */
 }
+
+/* ---- 简介里的 Google Scholar 引用数徽章（shields.io 图片）---- */
+a.gs-citations-link {
+  text-decoration: none !important;   /* 避免主题给正文链接加下划线 */
+
+  img.gs-citations {
+    height: 1.25em;            /* 原图 105×20，按字号等比缩放 */
+    width: auto;
+    margin: 0 0.15em;
+    vertical-align: middle;    /* 和中文行内文字对齐 */
+  }
+
+  &:hover img.gs-citations {
+    box-shadow: none;          /* 关掉主题给图片链接的悬停阴影 */
+  }
+}
