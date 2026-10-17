@@ -1,10 +1,8 @@
 {% assign gsStatsJson = "https://cdn.jsdelivr.net/gh/" | append: site.repository | append: "@google-scholar-stats/gs_data_shieldsio.json" %}
 
-# ✨ 个人简介
+# ✨ 关于我
 
-我目前是[西北师范大学人工智能与计算机学院（软件学院）](https://jsj.nwnu.edu.cn/)副教授，硕士生导师，并担任了甘肃省人工智能学会理事，西北师范大学学报（自科版）青年编委。
-
-我的研究方向包括半监督遥感影像变化检测、多源遥感影像语义分割、遥感影像变化检测与描述、高光谱视频目标跟踪，AI for Remote Sensing。
+我目前是[西北师范大学人工智能与计算机学院（软件学院）](https://jsj.nwnu.edu.cn/)副教授，硕士生导师，并担任了甘肃省人工智能学会理事，西北师范大学学报（自科版）青年编委。我的研究方向包括**半监督遥感影像变化检测**、**多源遥感影像语义分割**、**遥感影像变化检测与描述**、**高光谱视频目标跟踪**，AI for Remote Sensing。
 
 我在<img src="/images/introduction/CUMT.png" class="school-logo" alt="中国矿业大学校徽">[中国矿业大学](https://www.cumt.edu.cn/index.htm)计算机应用技术专业获得工学博士学位，导师是周勇教授；此前在<img src="/images/introduction/NWNU.png" class="school-logo" alt="西北师范大学校徽">[西北师范大学](https://www.nwnu.edu.cn/)计算机科学与技术专业获得硕士学位，导师是马慧芳教授。
 

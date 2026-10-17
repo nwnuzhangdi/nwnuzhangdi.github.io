@@ -10,7 +10,7 @@
 # 💬 招生信息
 - 2027年度计划招收硕士研究生4人。
 
-- 欢迎拥有良好英语读写基础、较强Python编程能力的学生报考！
+- 欢迎拥有良好英语读写基础、较强Python编程能力的学生联系我！
 
 - 如有意向，可将个人简历发送至：<i class="fas fa-envelope"></i> [zhangdi@nwnu.edu.cn](mailto:zhangdi@nwnu.edu.cn)
 
