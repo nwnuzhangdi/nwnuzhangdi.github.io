@@ -32,6 +32,7 @@ jobs:
         working-directory: ./google_scholar_crawler
         env:
           GOOGLE_SCHOLAR_ID: ${{ secrets.GOOGLE_SCHOLAR_ID }}
+          SERPAPI_KEY: ${{ secrets.SERPAPI_KEY }}
         run: |
           if [ -z "$GOOGLE_SCHOLAR_ID" ]; then
             echo "::error::缺少 secret GOOGLE_SCHOLAR_ID，请到 Settings → Secrets and variables → Actions 添加"
