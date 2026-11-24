@@ -4,7 +4,7 @@
 ## - 📗 期刊论文
 
 <!-- 第一篇 -->
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">IEEE TGRS 2026</div><img src='/images/AMS-SemiCD.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">IEEE TGRS 2026</div><img src='/images/DSMTrack.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 DSMTrack: Decoupling Spectral Information with Bidirectional Mamba for Reliable Interaction in Hyperspectral Object Tracking
