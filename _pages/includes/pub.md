@@ -9,7 +9,7 @@
 
 DSMTrack: Decoupling Spectral Information with Bidirectional Mamba for Reliable Interaction in Hyperspectral Object Tracking
 
-**Di Zhang**, Kunpeng Yang , Dian Li, XiongXiong Jing, Xin He, Huifang Ma
+**Di Zhang**, Kunpeng Yang , Dian Li, Xiongxiong Jing, Xin He, Huifang Ma
 
 **IEEE Transactions on Geoscience and Remote Sensing(Volume: )**
 
