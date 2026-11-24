@@ -7,11 +7,27 @@
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">IEEE TGRS 2026</div><img src='/images/AMS-SemiCD.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
+DSMTrack: Decoupling Spectral Information with Bidirectional Mamba for Reliable Interaction in Hyperspectral Object Tracking
+
+**Di Zhang**, Kunpeng Yang , Dian Li, XiongXiong Jing, Xin He, Huifang Ma
+
+**IEEE Transactions on Geoscience and Remote Sensing(Volume: )**
+
+<span class="journal-tag">中科院1区TOP CCF-B</span>  [**[Paper]**]()  [**[Code]**](https://github.com/RSII-NWNU/DSMTrack)
+
+- We propose DSMTrack, a hyperspectral object tracking framework based on bidirectional Mamba spectral decoupling and reliability-aware prompt interaction, where BMSD models ordered band sequences within each spatial patch to generate compact spectral representations, and RS²PIM estimates branch reliability and gates token contributions for reliable bidirectional spatial–spectral interaction, achieving competitive tracking performance on multiple HOT benchmarks..
+</div>
+</div>
+
+<!-- 第一篇 -->
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">IEEE TGRS 2026</div><img src='/images/AMS-SemiCD.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
 AMS-SemiCD: A Synergistic Framework for Semi-Supervised Change Detection via an Adaptive Pseudo-Labeling Strategy and a Multi-Branch Network
 
 **Di Zhang**, Peicheng Yue , Huifang Ma, Zhanjun Hao, Xin He, Yun Liu, Jiaqi Zhao
 
-**IEEE Transactions on Geoscience and Remote Sensing( Volume: 64)**
+**IEEE Transactions on Geoscience and Remote Sensing(Volume:64)**
 
 <span class="journal-tag">中科院1区TOP CCF-B</span>  [**[Paper]**](https://ieeexplore.ieee.org/abstract/document/11693064)  [**[Code]**](https://github.com/RSII-NWNU/AMS-SemiCD)
 
@@ -19,7 +35,7 @@ AMS-SemiCD: A Synergistic Framework for Semi-Supervised Change Detection via an 
 </div>
 </div>
 
-<!-- 第二篇 -->
+<!-- 第二篇
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">IEEE GRSL 2026</div><img src='/images/CFPFNet.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
@@ -33,22 +49,9 @@ A Coarse-to-Fine Progressive Fusion Network for Multimodal Semantic Segmentation
 
   - We proposed a coarse-to-fine progressive fusion network for multimodal remote sensing semantic segmentation, combining a Mamba-based structural prior in CGCE for shallow optical-DSM alignment with an FGAF module for frequency-spatial deep refinement.
 </div>
-</div>
-
-<!-- 第三篇 -->
-<!-- <div class='paper-box'><div class='paper-box-image'><div><div class="badge">Remote Sens 2024</div><img src='/images/DFAFNet.png' alt="sym" width="100%"></div></div>
-<div class='paper-box-text' markdown="1">
-
-Multi-Source Remote Sensing Images Semantic Segmentation Based on Differential Feature Attention Fusion
-
-**Di Zhang**, Peicheng Yue, Yuhang Yan, Qianqian Niu, Jiaqi Zhao, Huifang Ma
-
-**Remote Sens. 2024, 16(24), 4717**
-
-<span class="journal-tag">中科院2区</span>  [**[Paper]**](https://www.mdpi.com/2072-4292/16/24/4717)  **[Code]**
-  - We propose DFAFNet, a multi-source remote sensing semantic segmentation network based on differential feature attention fusion, combining a differential feature fusion module and an unsupervised adversarial loss for discriminative multi-source feature mining, and an attention-guided upsampling strategy for high-quality decoder reconstruction, thereby achieving 2.8% and 2.0% mIoU improvements on US3D and ISPRS Potsdam, respectively.
-</div>
 </div> -->
+
+- `IEEE GRSL 2026` **Zhang D**, Yan Y, Niu Q, Yue P, et al. A Coarse-to-Fine Progressive Fusion Network for Multimodal Semantic Segmentation of Remote Sensing Images[J]. IEEE Geoscience and Remote Sensing Letters, 2026, 23.<span class="journal-tag">中科院3区</span> [**[Paper]**](https://ieeexplore.ieee.org/abstract/document/11635839)
 
 
 - `IEEE TGRS 2025` Li X, Ma H, Guo S, **Zhang D**, et al. Dual-Graph Knowledge Distillation Meets Multiscale CNN: A Novel Ensemble Approach for Few-Shot Hyperspectral Image Classification[J]. IEEE Transactions on Geoscience and Remote Sensing, 2025, 63: 1-22.   <span class="journal-tag">中科院1区TOP CCF-B</span> [**[Paper]**](https://ieeexplore.ieee.org/abstract/document/11222100) [**[Code]**](https://github.com/AXTX725/KDMSC)
