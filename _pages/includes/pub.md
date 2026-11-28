@@ -13,7 +13,7 @@ DSMTrack: Decoupling Spectral Information with Bidirectional Mamba for Reliable 
 
 **IEEE Transactions on Geoscience and Remote Sensing(Volume: )**
 
-<span class="journal-tag">中科院1区TOP CCF-B</span>  [**[Paper]**]()  [**[Code]**](https://github.com/RSII-NWNU/DSMTrack)
+<span class="journal-tag">中科院1区TOP CCF-B</span>  [**[Paper]**](https://ieeexplore.ieee.org/document/11816277)  [**[Code]**](https://github.com/RSII-NWNU/DSMTrack)
 
 - We propose DSMTrack, a hyperspectral object tracking framework based on bidirectional Mamba spectral decoupling and reliability-aware prompt interaction, where BMSD models ordered band sequences within each spatial patch to generate compact spectral representations, and RS²PIM estimates branch reliability and gates token contributions for reliable bidirectional spatial–spectral interaction, achieving competitive tracking performance on multiple HOT benchmarks.
 </div>
